@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    float ylimit;
+    double ylimit;
     double g = 3.71;
     double y = 0.0;
     double v = 0.0;
